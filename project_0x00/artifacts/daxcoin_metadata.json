@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "newvalue",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"project_0x00/mycontract.sol": "daxcoin"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"project_0x00/mycontract.sol": {
+			"keccak256": "0x0233186cf1e0749b8620290d63e82e553e0474d9c6750582657f7d2a114ca49b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ba339ae486fd0b966e11f24740b8d157f2ef83a03e9b5ed5ae6ef1194da0e034",
+				"dweb:/ipfs/QmaEoGFZhrXeYYK1SueRTTJF8CJBBuRHRX9krhxbxL2Eft"
+			]
+		}
+	},
+	"version": 1
+}
