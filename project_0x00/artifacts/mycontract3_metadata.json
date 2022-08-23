@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "balance_check",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "send_ether",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"project_0x00/mycontract3.sol": "mycontract3"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"project_0x00/mycontract3.sol": {
+			"keccak256": "0x636eb9559d6319b95b377324974dca22547020d0eac82e387044e4e6e3b43a02",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://094212fd9dcc12140ea31070e6ce4296bda789bcd1dc8be7fbeeac4f326fe9f8",
+				"dweb:/ipfs/QmSvRDiLoNiXPipVjEyyupXyWoGTEv8DrumvTx32ZCHzAt"
+			]
+		}
+	},
+	"version": 1
+}
