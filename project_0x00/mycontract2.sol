@@ -38,7 +38,7 @@ contract mycontract2{
         user3.name;
     }
 
-    //emitting an event in a smart contract and trying to commit stuff
+    //emitting an event in a smart contract
     function two(address to, uint amount) external{
         emit Web3E(block.timestamp, msg.sender, to, amount);
     }
