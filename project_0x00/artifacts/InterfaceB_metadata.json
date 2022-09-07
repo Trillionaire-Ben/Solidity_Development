@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"project_0x00/mycontract4B.sol": "InterfaceB"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"project_0x00/mycontract4B.sol": {
+			"keccak256": "0x72e71d6e04d69303c11651cc70d8eabe64fb5ba3af3c4242b2b04166dca6dbca",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5f5cfb95698ad0c07d93ec1b92dcb5db704ae0e74ba74ce2ee98da07afb52be6",
+				"dweb:/ipfs/QmVXRF8cyzVuQCy5uzUz38PAB9ioSsswBQhmLbCtY22UZH"
+			]
+		}
+	},
+	"version": 1
+}

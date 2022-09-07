@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "reciever_add",
+						"type": "address"
+					}
+				],
+				"name": "send_ether",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"project_0x00/mycontract3.sol": "transfer_coin"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"project_0x00/mycontract3.sol": {
+			"keccak256": "0x3da1b04db34391d400c0ba6edb1fa635e1ee88a9f6a365bad0e74954300ade8a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f5f8ae5aab4da9c309438b69543cf9e5dad8e7a715d07ecfa1dd18d2b291ffca",
+				"dweb:/ipfs/QmY1neCk3QX6sUVXTF6VPRUBA1BJw9Gii7C3ERVCNSKdiV"
+			]
+		}
+	},
+	"version": 1
+}

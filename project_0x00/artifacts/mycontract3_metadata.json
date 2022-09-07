@@ -20,7 +20,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "send_ether",
+				"name": "recieve_ether",
 				"outputs": [],
 				"stateMutability": "payable",
 				"type": "function"
@@ -54,11 +54,11 @@
 	},
 	"sources": {
 		"project_0x00/mycontract3.sol": {
-			"keccak256": "0x636eb9559d6319b95b377324974dca22547020d0eac82e387044e4e6e3b43a02",
+			"keccak256": "0x3da1b04db34391d400c0ba6edb1fa635e1ee88a9f6a365bad0e74954300ade8a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://094212fd9dcc12140ea31070e6ce4296bda789bcd1dc8be7fbeeac4f326fe9f8",
-				"dweb:/ipfs/QmSvRDiLoNiXPipVjEyyupXyWoGTEv8DrumvTx32ZCHzAt"
+				"bzz-raw://f5f8ae5aab4da9c309438b69543cf9e5dad8e7a715d07ecfa1dd18d2b291ffca",
+				"dweb:/ipfs/QmY1neCk3QX6sUVXTF6VPRUBA1BJw9Gii7C3ERVCNSKdiV"
 			]
 		}
 	},
